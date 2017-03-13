@@ -27,7 +27,7 @@
  *
  * @since 1.0.0
  */
-function blueblaze__disable_dashboard_primary() {
-  remove_meta_box('dashboard_primary','dashboard','side'); //WordPress.com Blog
+function blueblaze__disable_dashboard_primary_widget() {
+  remove_meta_box( 'dashboard_primary', 'dashboard', 'side' ); // WordPress News
 }
-add_action( 'wp_dashboard_setup', 'blueblaze__disable_dashboard_primary' );
+add_action( 'wp_dashboard_setup', 'blueblaze__disable_dashboard_primary_widget' );
