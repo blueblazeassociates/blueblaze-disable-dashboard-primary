@@ -11,7 +11,7 @@
  * Plugin Name:       Blue Blaze Disable WordPress News Widget
  * Plugin URI:        https://github.com/blueblazeassociates/blueblaze-disable-dashboard-primary
  * Description:       Disables the WordPress News dashboard widget.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Blue Blaze Associates
  * Author URI:        http://www.blueblazeassociates.com
  * License:           GPL v2 or later
